@@ -17,7 +17,7 @@ library(latticeExtra)
 library(ergm)
 library(modelsummary)
 library(kableExtra)
-load("yourwd/the_data.RData")
+load("yourwd/Practice.RData")
 ```
 
 # 1 Explain why the mechanism of gender homophily might create networks in which there is a substantial degree of reciprocity and transitivity, even if no explicit mechanisms of reciprocation and transitive closure operate.

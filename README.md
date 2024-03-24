@@ -1,5 +1,6 @@
 #### ERGM-Practice
 
+##### download the Practice.RData first.
 [SNA-assignment-3-by-Yiqiu-Wang.pdf](https://github.com/Yiqiu-W/ERGM-Practice/files/14735736/SNA-assignment-3-by-Yiqiu-Wang.pdf)
 
 

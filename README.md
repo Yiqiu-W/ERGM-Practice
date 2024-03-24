@@ -1,5 +1,8 @@
 #### ERGM-Practice
 
+[SNA-assignment-3-by-Yiqiu-Wang.pdf](https://github.com/Yiqiu-W/ERGM-Practice/files/14735736/SNA-assignment-3-by-Yiqiu-Wang.pdf)
+
+
 ##### 1 Explain why the mechanism of gender homophily might create networks in which there is a substantial degree of reciprocity and transitivity, even if no explicit mechanisms of reciprocation and transitive closure operate.
 #
 ##### 2 Explain why the opposite is not generally true, i.e., why the mechanisms of reciprocation or transitive closure do not generally create networks which are gender segregated.

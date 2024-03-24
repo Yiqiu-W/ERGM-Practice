@@ -1,6 +1,6 @@
 ---
-title: "SNA assignment 3 by Yiqiu Wang"
-author: "Yiqiu Wang"
+title: "XXX"
+author: "XXX"
 date: "2023-02-22"
 header-includes:
     - \usepackage{float}
@@ -17,7 +17,7 @@ library(latticeExtra)
 library(ergm)
 library(modelsummary)
 library(kableExtra)
-load("C:/Users/wangy/Documents/SNA5lab/assignment/OneDrive_2023-02-22/data sets for assignment 3/yiqwa229.RData")
+load("yourwd/the_data.RData")
 ```
 
 # 1 Explain why the mechanism of gender homophily might create networks in which there is a substantial degree of reciprocity and transitivity, even if no explicit mechanisms of reciprocation and transitive closure operate.
